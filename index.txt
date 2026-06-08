@@ -1,0 +1,12 @@
+
+Epically Powerful is an open-source robotics infrastructure that streamlines the core framework of robotic systems — handling communication, timing, actuator monitoring, visualization, and data logging — so researchers can focus on controllers, experiments, and science.
+
+Built for modularity, it unifies power systems, single-board computers, actuators, and IMUs into a cohesive plug-and-play setup.  Designed for modularity and speeding up the custom build process, it offers:
+* Python-based coding interfaces for easy integration with commercial quasi direct drive (QDD) actuators and common IMU sensors
+* Parts lists, compatibility guides, and tutorials for rapid hardware and software setup
+* Example controllers and real-time visualization through PlotJuggler
+* Extensive documentation on every step of the setup process
+
+Epically Powerful lowers the barrier to building custom robotic systems without enforcing a pre-specified form factor, enabling researchers to go from raw hardware to modular, robust devices quickly and effectively.
+
+---
